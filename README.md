@@ -102,7 +102,7 @@ bilibili_analysis/
 
 ## 成果展示
 
-* **GitHub 仓库**：[https://github.com/yourname/bilibili\_analysis](https://github.com/yourname/bilibili_analysis)
+* **GitHub 仓库**：[[https://github.com/yourname/bilibili\_analysis](https://github.com/yourname/bilibili_analysis)]
 * **Tableau Dashboard**：[https://public.tableau.com/app/profile/yourname/dashboard/xxxxxxxx](https://public.tableau.com/app/profile/yourname/dashboard/xxxxxxxx)
 * **项目报告**：`reports/bilibili_analysis_report.pdf`
 
